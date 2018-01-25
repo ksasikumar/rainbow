@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a[1000];
+int l,k;
+printf("enter the lines");
+for(i=0;i<n;i++)
+{
+scanf("%d",&a[i]);
+}
+n=strlen(a);
+for(i=0;i<n;i++)
+{
+if(a[i]="\.");
+{
+count++;
+}
+}
+b=count;
+printf(/"%d",b);
+}
